@@ -14,7 +14,8 @@ Hi there 👋
 
 ## 🧪 Research
 
-- [KASYS (Knowledge Acquisition System Laboratory) – Kato Laboratory, University of Tsukuba](https://kasys.slis.tsukuba.ac.jp/en/)
+- Research Interests: Information Retrieval, Web Mining, Machine Learning
+- Lab: [KASYS (Knowledge Acquisition System Laboratory) – Kato Laboratory, University of Tsukuba](https://kasys.slis.tsukuba.ac.jp/en/)
 
 ## 💻 Employment
 
