@@ -9,9 +9,7 @@ Hi there 👋
 ## 🌱 Education
 
 - Apr 2019 - : Knowledge Information Systems Course, College of Knowledge and Library Sciences, School of Informatics, University of Tsukuba (Bachelor of Arts in Library and Information Science)
-
 - Apr 2017 - Mar 2019: Information and Control Systems Course, Classes for Engineering, Kindai University Technical College (Associate degree in Engineering) 
-
 - Apr 2014 - Mar 2017: Department of Electronics, Kagoshima Prefectural Kajiki Technical High School 
 
 ## 🧪 Research
@@ -21,9 +19,7 @@ Hi there 👋
 ## 💻 Employment
 
 - Apr 2020 - : POL Inc. Backend Engineer (Intern)
-
 - Feb 2020 - Jun 2020: AGREE Inc. Frontend Engineer (Part-time Work)
-
 -  Sep 2019 - Sep 2019: teamLab Inc. Web Application Team (Intern) 
 
 ## 📫 How to reach me:
