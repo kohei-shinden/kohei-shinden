@@ -2,14 +2,9 @@
 
 Hi there 👋
 
-<a href="https://github-readme-stats.vercel.app/api?username=kohei-shinden&count_private=true&show_icons=true">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kohei-shinden&count_private=true&show_icons=true" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kohei-shinden">
-  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kohei-shinden" />
-</a>
-</br>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kohei-shinden&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kohei-shinden)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔭 Activities
 - IPA MITOU Program (2020 - )
