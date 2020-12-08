@@ -29,4 +29,4 @@ Hi there 👋
 - Twitter: [@KoheiShinden](https://twitter.com/KoheiShinden)
 - Facebook: [Kohei Shinden](https://www.facebook.com/kohei.shinden)
 - LinkedIn: [Kohei Shinden](https://www.linkedin.com/in/koheishinden/?locale=en_US)
-- Personal site: [新田洸平 / Kohei Shinden](https://sites.google.com/klis.tsukuba.ac.jp/koheishinden/english?authuser=0)
+- Personal site: [新田洸平 / Kohei Shinden](https://sites.google.com/view/kohei-shinden/english)
